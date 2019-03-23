@@ -13,6 +13,8 @@ class Customer extends React.Component {
 }
 
 
+
+
 export default Customer;
 
 /* 컴포넌트에서는 표출값을 하드코딩 하진 않고 props 라는 '속성'을 불러오는 함수를 이용한다.*/
