@@ -14,11 +14,10 @@ class Customer extends React.Component {
 
 
 
-
-
-
 export default Customer;
+  
 
+/* 123 */
 /* 컴포넌트에서는 표출값을 하드코딩 하진 않고 props 라는 '속성'을 불러오는 함수를 이용한다.*/
 /* 최종적으로 화면에 표출되는 것은 최하위의 componet에 정의되고, 이 속성값은 (App.js)에서 전달받는다. */ 
 
